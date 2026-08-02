@@ -1,0 +1,17 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon?
+
+# Editor and IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary and backup files
+*.bak
+*.tmp
