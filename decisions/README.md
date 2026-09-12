@@ -23,5 +23,13 @@ Add a row here in the same PR that posts the minutes recording the decision.
 | 2026-08-09 | Adopt meeting-notes process (draft after each call, ratified at the following week's call, published with anonymized speaker attribution) | These minutes (canonical operational record) | [2026-08-09-weekly](../meetings/2026-08-09-weekly/notes.md) | Confirmed |
 | 2026-08-16 | Defer the document-ingestion dependency decision (keep and integrate vs. replace/remove vs. pluggable ingestion layer) pending an ADR for group review at the next meeting | These minutes (canonical operational record of the deferral); forthcoming ADR will be canonical for the eventual decision | [2026-08-16-weekly](../meetings/2026-08-16-weekly/notes.md) | Deferred; ADR pending |
 
+| 2026-08-23 | Delay planned v0.7.1 release by one week to include the web UI dependency update | These minutes (canonical operational record of scheduling decision) | [2026-08-23-weekly](../meetings/2026-08-23-weekly/notes.md) | Recorded at call; public objection window through 2026-09-18 |
+| 2026-08-23 | Accept removal of unused upstream Docling integration; defer pluggable ingestion as DE-387 | [ADR 0026](https://github.com/LegalQuants/lq-ai/blob/main/docs/adr/0026-document-ingestion-parser-and-docling.md) — [lq-ai PR #528](https://github.com/LegalQuants/lq-ai/pull/528) | [2026-08-23-weekly](../meetings/2026-08-23-weekly/notes.md) | ADR records acceptance 2026-08-23; PR merged 2026-08-26 (`e42f842e`); public minutes window through 2026-09-18 |
+| 2026-08-23 | Frame the 1.0 consultation as a survey, not a binding ballot; roadmap scope remains open | These minutes (canonical operational record) | [2026-08-23-weekly](../meetings/2026-08-23-weekly/notes.md) | Recorded at call; public objection window through 2026-09-18 |
+
 **Maintenance note:** status checked 2026-08-16. Recheck linked artifacts before each
 publication and cite any later merge commit or canonical status change.
+
+**2026-09-11 addition:** August 23 rows were checked against the circulated notes,
+ADR 0026, and PR #528. PR #530's prior closure is recorded as discussion status in
+the minutes, not as a new August 23 decision. Older status rows were not re-audited.
