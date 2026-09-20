@@ -27,9 +27,19 @@ Add a row here in the same PR that posts the minutes recording the decision.
 | 2026-08-23 | Accept removal of unused upstream Docling integration; defer pluggable ingestion as DE-387 | [ADR 0026](https://github.com/LegalQuants/lq-ai/blob/main/docs/adr/0026-document-ingestion-parser-and-docling.md) — [lq-ai PR #528](https://github.com/LegalQuants/lq-ai/pull/528) | [2026-08-23-weekly](../meetings/2026-08-23-weekly/notes.md) | ADR records acceptance 2026-08-23; PR merged 2026-08-26 (`e42f842e`); public minutes window through 2026-09-18 |
 | 2026-08-23 | Frame the 1.0 consultation as a survey, not a binding ballot; roadmap scope remains open | These minutes (canonical operational record) | [2026-08-23-weekly](../meetings/2026-08-23-weekly/notes.md) | Recorded at call; public objection window through 2026-09-18 |
 
+| 2026-08-30 | Prioritize operator trust, acknowledge API-only use as unsupported, and leave the 1.0 date uncommitted pending clearer capacity | These minutes (canonical operational record) | [2026-08-30-weekly](../meetings/2026-08-30-weekly/notes.md) | Working directions; no complete roadmap formally adopted; public objection window through 2026-09-27 |
+| 2026-08-30 | Keep the survey open another week and coordinate individual reminders | These minutes (canonical operational record) | [2026-08-30-weekly](../meetings/2026-08-30-weekly/notes.md) | Operational follow-ups recorded at call; public objection window through 2026-09-27 |
+| 2026-09-06 | Develop survey direction into ADR proposals for asynchronous review | These minutes (canonical operational record) | [2026-09-06-weekly](../meetings/2026-09-06-weekly/notes.md) | Follow-up only; future ADRs not approved by these minutes; public objection window through 2026-09-27 |
+| 2026-09-06 | Progress security-reporting and permissions work, PR reviews, and reviewed meeting records; arrange a guided board-portal demonstration | These minutes (canonical operational record) | [2026-09-06-weekly](../meetings/2026-09-06-weekly/notes.md) | Operational follow-ups; no governance-system adoption; public objection window through 2026-09-27 |
+| 2026-09-13 | Seek roadmap and technical ADR reviews with clearer reviewer guidance | These minutes (canonical operational record) | [2026-09-13-weekly](../meetings/2026-09-13-weekly/notes.md) | Review follow-up; no ADR adoption recorded; public objection window through 2026-09-27 |
+| 2026-09-13 | Trial direct reviewer correction of minor PR errors while returning substantive choices to the contributor and observing merge requirements | These minutes (canonical operational record) | [2026-09-13-weekly](../meetings/2026-09-13-weekly/notes.md) | Limited working approach; no blanket policy change; public objection window through 2026-09-27 |
+| 2026-09-13 | Explore opt-in telemetry through an issue and prepare clearer user-feedback invitations and launch outreach | These minutes (canonical operational record) | [2026-09-13-weekly](../meetings/2026-09-13-weekly/notes.md) | Exploration and outreach follow-ups; no telemetry implementation approved; public objection window through 2026-09-27 |
+
 **Maintenance note:** status checked 2026-08-16. Recheck linked artifacts before each
 publication and cite any later merge commit or canonical status change.
 
 **2026-09-11 addition:** August 23 rows were checked against the circulated notes,
 ADR 0026, and PR #528. PR #530's prior closure is recorded as discussion status in
 the minutes, not as a new August 23 decision. Older status rows were not re-audited.
+
+**2026-09-20 addition:** August 30, September 6, and September 13 public notes were approved for publication as confirmed by Joel Kaufmann. New rows index only the working directions and operational follow-ups recorded in those notes; proposed architecture, sponsorship, governance, and telemetry implementations are not treated as adopted decisions. Older status rows were not re-audited.
