@@ -35,6 +35,12 @@ Add a row here in the same PR that posts the minutes recording the decision.
 | 2026-09-13 | Trial direct reviewer correction of minor PR errors while returning substantive choices to the contributor and observing merge requirements | These minutes (canonical operational record) | [2026-09-13-weekly](../meetings/2026-09-13-weekly/notes.md) | Limited working approach; no blanket policy change; public objection window through 2026-09-27 |
 | 2026-09-13 | Explore opt-in telemetry through an issue and prepare clearer user-feedback invitations and launch outreach | These minutes (canonical operational record) | [2026-09-13-weekly](../meetings/2026-09-13-weekly/notes.md) | Exploration and outreach follow-ups; no telemetry implementation approved; public objection window through 2026-09-27 |
 
+| 2026-09-20 | Accept governed orchestration roadmap (ADR 0035) | [lq-ai PR #567](https://github.com/LegalQuants/lq-ai/pull/567) | [2026-09-20-weekly](../meetings/2026-09-20-weekly/notes.md) | Canonical acceptance dated September 20 and same-day merges verified in the notes; implementation is separate; public objection window through 2026-10-15 |
+| 2026-09-20 | Accept request budgets and timeouts (ADR 0027) | [lq-ai PR #573](https://github.com/LegalQuants/lq-ai/pull/573) | [2026-09-20-weekly](../meetings/2026-09-20-weekly/notes.md) | Canonical acceptance dated September 20 and same-day merges verified in the notes; implementation is separate; public objection window through 2026-10-15 |
+| 2026-09-20 | Accept RustFS storage replacement and deployment migrations framework (ADRs 0036–0037) | [lq-ai PR #583](https://github.com/LegalQuants/lq-ai/pull/583) | [2026-09-20-weekly](../meetings/2026-09-20-weekly/notes.md) | Canonical acceptance dated September 20 and same-day merges verified in the notes; implementation is separate; public objection window through 2026-10-15 |
+| 2026-09-20 | Accept documentation-site plan (ADR 0028 and mini-PRD) | [lq-ai PR #580](https://github.com/LegalQuants/lq-ai/pull/580) and [#511](https://github.com/LegalQuants/lq-ai/pull/511) | [2026-09-20-weekly](../meetings/2026-09-20-weekly/notes.md) | Canonical acceptance dated September 20 and same-day merges verified in the notes; implementation is separate; public objection window through 2026-10-15 |
+| 2026-09-20 | Progress contribution guidance, minutes review, plugin compatibility testing, and first-party plugin integration; keep roadmap review open and revisit governance-tool adoption later | These minutes (canonical operational record) | [2026-09-20-weekly](../meetings/2026-09-20-weekly/notes.md) | Follow-ups and priorities only; no governance-tool adoption, Jev integration, or event commitment approved; public objection window through 2026-10-15 |
+
 **Maintenance note:** status checked 2026-08-16. Recheck linked artifacts before each
 publication and cite any later merge commit or canonical status change.
 
@@ -43,3 +49,5 @@ ADR 0026, and PR #528. PR #530's prior closure is recorded as discussion status 
 the minutes, not as a new August 23 decision. Older status rows were not re-audited.
 
 **2026-09-20 addition:** August 30, September 6, and September 13 public notes were approved for publication as confirmed by Joel Kaufmann. New rows index only the working directions and operational follow-ups recorded in those notes; proposed architecture, sponsorship, governance, and telemetry implementations are not treated as adopted decisions. Older status rows were not re-audited.
+
+**2026-10-08 addition:** September 20 attendee-list and public-note publication approval confirmed by Joel Kaufmann. These rows preserve the September 20 canonical-status snapshot documented in the notes; older rows and subsequent implementation status were not re-audited.
