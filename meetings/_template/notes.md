@@ -28,17 +28,29 @@
 
 ## Action items
 
-- [ ] **Owner** — action (due: )
+- [ ] **Anonymized owner** — action (due: )
 
-## Ratification
+## Review, approval, and publication
 
-- **Posted (merged):** YYYY-MM-DD
-- **Objection window closes:** YYYY-MM-DD (posted + 7 days)
+- **Internal circulation:** YYYY-MM-DD, HH:MM (time zone)
+- **Objection deadline:** YYYY-MM-DD, HH:MM (same time zone; circulation + 7 days)
+- **Approval date:** YYYY-MM-DD
+- **Approval basis and confirmation:** <!-- No objections by deadline, or resolved objections;
+  identify confirming person/body without private review details. Do not claim approval
+  before review is complete. -->
 - **Attendee-list publication review:** Confirmed by REVIEWER OR APPROVING BODY
-- **Status:** Open for objections
+- **GitHub publication (merged):** Pending merge
+- **Status:** Draft — internal review pending
 
-<!-- Per GOVERNANCE.md (lq-ai PR #311): committee members who miss a call may register
-     agreement or objection within 7 days of posting; silence after 7 days is assent.
-     On window close, set Status to "Ratified (silence is assent)" or record the
-     objection outcome. Posted minutes are append-only — corrections are added as
-     dated "Correction (YYYY-MM-DD):" entries. -->
+<!-- Apply the effective-date/transition rule in ../README.md. Records already in review
+     at transition retain the prior public-posting rule; label that rule explicitly.
+     Internal notes and the proposed public version circulate internally with a seven-day
+     deadline. Record approval after the window closes and any objections are resolved.
+     Set Status to Approved for publication only after that review; then Published after
+     merge, replacing Pending merge with the actual publication date.
+     Material changes to decisions, attendee identification, or publishable content require
+     recirculation and a fresh seven-day window. Typographical corrections do not.
+     Publication does not restart the window. Add later corrections as dated entries and
+     preserve original circulation/approval history when recording a correction's review.
+     Do not include private review links/exchanges. Unknown facts: Not recorded in source
+     notes. Missing evidence of completed review/approval blocks publication. -->

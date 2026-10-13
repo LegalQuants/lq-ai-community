@@ -51,3 +51,22 @@ the minutes, not as a new August 23 decision. Older status rows were not re-audi
 **2026-09-20 addition:** August 30, September 6, and September 13 public notes were approved for publication as confirmed by Joel Kaufmann. New rows index only the working directions and operational follow-ups recorded in those notes; proposed architecture, sponsorship, governance, and telemetry implementations are not treated as adopted decisions. Older status rows were not re-audited.
 
 **2026-10-08 addition:** September 20 attendee-list and public-note publication approval confirmed by Joel Kaufmann. These rows preserve the September 20 canonical-status snapshot documented in the notes; older rows and subsequent implementation status were not re-audited.
+
+## Internal-review process clarification — 2026-10-13
+
+[Issue #3](https://github.com/LegalQuants/lq-ai-community/issues/3) records the proposal;
+the [October 6 confirmation](https://github.com/LegalQuants/lq-ai-community/issues/3#issuecomment-6006999060)
+supports proceeding with the PR. Joel Kaufmann confirmed on October 13 that the team
+approved the proposal as proposed. This date records that confirmation, not an inferred
+meeting or vote date; no new meeting record is reconstructed.
+
+| Record date | Decision | Canonical source | Implementation status |
+|---|---|---|---|
+| 2026-10-13 | Clarify community participation and navigation; begin seven-day review at internal circulation; publish approved public notes afterward; recirculate material changes for a fresh window | [GOVERNANCE.md](https://github.com/LegalQuants/lq-ai/blob/main/GOVERNANCE.md#meetings) and [ADR 0022](https://github.com/LegalQuants/lq-ai/blob/main/docs/adr/0022-committee-governance-and-meeting-records.md), coordinated under [issue #3](https://github.com/LegalQuants/lq-ai-community/issues/3) | Team approval confirmed; [governance amendment #721](https://github.com/LegalQuants/lq-ai/pull/721) and effective-date rule remain for PR review |
+
+The [dated transition clarification](../meetings/README.md#transition-clarification-2026-10-13)
+proposes prospective effect after both coordinated PRs merge. Existing published deadlines
+remain as recorded, including September 27 for the August 30, September 6, and September 13
+notes and October 15 for the September 20 notes. No historical circulation dates, objection
+outcomes, or ratification statuses are inferred. The documentation-site URL and launch-link
+owner remain unassigned for review; the README marks the site forthcoming.
