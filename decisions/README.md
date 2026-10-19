@@ -41,6 +41,13 @@ Add a row here in the same PR that posts the minutes recording the decision.
 | 2026-09-20 | Accept documentation-site plan (ADR 0028 and mini-PRD) | [lq-ai PR #580](https://github.com/LegalQuants/lq-ai/pull/580) and [#511](https://github.com/LegalQuants/lq-ai/pull/511) | [2026-09-20-weekly](../meetings/2026-09-20-weekly/notes.md) | Canonical acceptance dated September 20 and same-day merges verified in the notes; implementation is separate; public objection window through 2026-10-15 |
 | 2026-09-20 | Progress contribution guidance, minutes review, plugin compatibility testing, and first-party plugin integration; keep roadmap review open and revisit governance-tool adoption later | These minutes (canonical operational record) | [2026-09-20-weekly](../meetings/2026-09-20-weekly/notes.md) | Follow-ups and priorities only; no governance-tool adoption, Jev integration, or event commitment approved; public objection window through 2026-10-15 |
 
+| 2026-09-27 | No meeting held (cancelled for LQ Residency Demo Day) | [Cancellation record](../meetings/2026-09-27-weekly/notes.md) | [2026-09-27-weekly](../meetings/2026-09-27-weekly/notes.md) | No decisions |
+| 2026-10-04 | Review the pending ADRs (tabular bulk operations, identity, community skill catalog, UI component system) ahead of the next meeting; give the Road to 1.0 ADR a final review before merging | These minutes (canonical operational record); ADR/PR numbers not recorded in source | [2026-10-04-weekly](../meetings/2026-10-04-weekly/notes.md) | Review follow-ups only; no ADR acceptance recorded on October 4; public objection window runs seven days from merge |
+| 2026-10-04 | Add contributor stories to the community repository; continue posting starter issues roughly every two weeks | These minutes (canonical operational record) | [2026-10-04-weekly](../meetings/2026-10-04-weekly/notes.md) | Operational follow-ups; public objection window runs seven days from merge |
+| 2026-10-04 | Keep UI improvement a medium-term priority and consolidate UI feedback before further discussion | These minutes (canonical operational record) | [2026-10-04-weekly](../meetings/2026-10-04-weekly/notes.md) | Working direction; public objection window runs seven days from merge |
+| 2026-10-04 | Align the draft sponsorship framework with the LegalQuants organization before any external use | These minutes (canonical operational record) | [2026-10-04-weekly](../meetings/2026-10-04-weekly/notes.md) | No sponsors, tiers, or prices approved; public objection window runs seven days from merge |
+| 2026-10-11 | No meeting held (cancelled — scheduling conflicts) | [Cancellation record](../meetings/2026-10-11-weekly/notes.md) | [2026-10-11-weekly](../meetings/2026-10-11-weekly/notes.md) | No decisions |
+
 **Maintenance note:** status checked 2026-08-16. Recheck linked artifacts before each
 publication and cite any later merge commit or canonical status change.
 
@@ -51,6 +58,8 @@ the minutes, not as a new August 23 decision. Older status rows were not re-audi
 **2026-09-20 addition:** August 30, September 6, and September 13 public notes were approved for publication as confirmed by Joel Kaufmann. New rows index only the working directions and operational follow-ups recorded in those notes; proposed architecture, sponsorship, governance, and telemetry implementations are not treated as adopted decisions. Older status rows were not re-audited.
 
 **2026-10-08 addition:** September 20 attendee-list and public-note publication approval confirmed by Joel Kaufmann. These rows preserve the September 20 canonical-status snapshot documented in the notes; older rows and subsequent implementation status were not re-audited.
+
+**2026-10-19 addition:** October 4 attendee-list and public-note publication approval confirmed by Joel Kaufmann on 2026-10-19 after internal circulation without objection. Cancellation records for September 27 and October 11 are indexed for calendar completeness. These records were circulated before the coordinated process change took effect and follow the prior public-posting rule. Older rows were not re-audited.
 
 ## Internal-review process clarification — 2026-10-13
 
