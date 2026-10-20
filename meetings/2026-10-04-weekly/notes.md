@@ -94,8 +94,8 @@ A substantial backlog of contributor PRs remains, with roughly half expected to 
 - **Approval date:** 2026-10-19
 - **Approval basis and confirmation:** No objections or corrections were raised by attendees following internal circulation; publication of the attendee list and public notes confirmed by Joel Kaufmann on 2026-10-19.
 - **Attendee-list publication review:** Confirmed by Joel Kaufmann on 2026-10-19.
-- **GitHub publication (merged):** Pending merge
-- **Objection-window close (prior rule):** Merge date + 7 days.
-- **Status:** Approved for publication — open for public objections for seven days after merge.
+- **GitHub publication (merged):** 2026-10-19
+- **Objection-window close (prior rule):** 2026-10-26 (merged 2026-10-19 + 7 days).
+- **Status:** Published 2026-10-19 — open for public objections through 2026-10-26.
 
 These notes summarize an AI-generated meeting summary; no verbatim transcript was used. Corrections after posting are added as dated entries.

@@ -29,5 +29,5 @@ None — meeting not held.
 - **Internal circulation:** Not applicable — cancellation record only.
 - **Objection deadline:** Not applicable.
 - **Approval date and basis:** 2026-10-19 — confirmed by Joel Kaufmann as consistent with the cancellation notice and the October 4 procedural update.
-- **GitHub publication (merged):** Pending merge
+- **GitHub publication (merged):** 2026-10-19
 - **Status:** Cancellation record — no decisions to ratify.
