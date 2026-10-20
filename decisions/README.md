@@ -48,6 +48,13 @@ Add a row here in the same PR that posts the minutes recording the decision.
 | 2026-10-04 | Align the draft sponsorship framework with the LegalQuants organization before any external use | These minutes (canonical operational record) | [2026-10-04-weekly](../meetings/2026-10-04-weekly/notes.md) | No sponsors, tiers, or prices approved; public objection window runs seven days from merge |
 | 2026-10-11 | No meeting held (cancelled — scheduling conflicts) | [Cancellation record](../meetings/2026-10-11-weekly/notes.md) | [2026-10-11-weekly](../meetings/2026-10-11-weekly/notes.md) | No decisions |
 
+| 2026-10-18 | Adopt ADR for workspace events, Today View, and staged read-only email (ADR 0042, provisional); approval of ADR text and staged scope only, not implementation | [lq-ai PR #677](https://github.com/LegalQuants/lq-ai/pull/677) | [2026-10-18-weekly](../meetings/2026-10-18-weekly/notes.md) | Proposed for adoption with no objection; PR open at 2026-10-19 check; public objection window runs seven days from merge |
+| 2026-10-18 | Adopt design-system primitives ADR with narrowed scope (ADR 0043) | [lq-ai PR #282](https://github.com/LegalQuants/lq-ai/pull/282) | [2026-10-18-weekly](../meetings/2026-10-18-weekly/notes.md) | Proposed for adoption with no objection; PR open at 2026-10-19 check; final ADR number to be confirmed at merge; public objection window runs seven days from merge |
+| 2026-10-18 | Adopt Slack/Teams `/lq` quick-ask flow including ADR 0039; Teams JWT validation and other items left to follow-up work | [lq-ai PR #415](https://github.com/LegalQuants/lq-ai/pull/415) | [2026-10-18-weekly](../meetings/2026-10-18-weekly/notes.md) | Proposed for adoption with no objection; PR open at 2026-10-19 check; public objection window runs seven days from merge |
+| 2026-10-18 | Select documentation-site version C; deliver a DOCX-to-Markdown ingestion stopgap and the writing skill as first first-party plugin skill in November; defer IT security hand-off document nearer 1.0 | These minutes (canonical operational record) | [2026-10-18-weekly](../meetings/2026-10-18-weekly/notes.md) | Working directions; public objection window runs seven days from merge |
+| 2026-10-18 | Pursue LegalQuants-owned Apple Developer and Microsoft developer accounts for release signing and distribution | These minutes (canonical operational record) | [2026-10-18-weekly](../meetings/2026-10-18-weekly/notes.md) | Raised with the LegalQuants organization; no purchase approved by these minutes; public objection window runs seven days from merge |
+| 2026-10-18 | LQAI judged not ready for full deployment; agent harness plus first-party open-source skills identified as the path forward; no archive, restart, or re-platform decision | These minutes (canonical operational record) | [2026-10-18-weekly](../meetings/2026-10-18-weekly/notes.md) | Direction only; target users, minimum feature set, and UI ownership remain open; public objection window runs seven days from merge |
+
 **Maintenance note:** status checked 2026-08-16. Recheck linked artifacts before each
 publication and cite any later merge commit or canonical status change.
 
@@ -60,6 +67,8 @@ the minutes, not as a new August 23 decision. Older status rows were not re-audi
 **2026-10-08 addition:** September 20 attendee-list and public-note publication approval confirmed by Joel Kaufmann. These rows preserve the September 20 canonical-status snapshot documented in the notes; older rows and subsequent implementation status were not re-audited.
 
 **2026-10-19 addition:** October 4 attendee-list and public-note publication approval confirmed by Joel Kaufmann on 2026-10-19 after internal circulation without objection. Cancellation records for September 27 and October 11 are indexed for calendar completeness. These records were circulated before the coordinated process change took effect and follow the prior public-posting rule. Older rows were not re-audited.
+
+**2026-10-20 addition:** October 18 attendee-list and public-note approval recorded 2026-10-20 after internal circulation on 2026-10-19 (all attendees confirmed; no objections). The September 27, October 4, and October 11 records were published on 2026-10-19 (PR #6); their `Pending merge` fields are replaced with that date and the objection window runs through 2026-10-26. ADR PR links reflect status at the 2026-10-19 check; older rows were not re-audited.
 
 ## Internal-review process clarification — 2026-10-13
 
