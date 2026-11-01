@@ -55,6 +55,10 @@ Add a row here in the same PR that posts the minutes recording the decision.
 | 2026-10-18 | Pursue LegalQuants-owned Apple Developer and Microsoft developer accounts for release signing and distribution | These minutes (canonical operational record) | [2026-10-18-weekly](../meetings/2026-10-18-weekly/notes.md) | Raised with the LegalQuants organization; no purchase approved by these minutes; public objection window runs seven days from merge |
 | 2026-10-18 | LQAI judged not ready for full deployment; agent harness plus first-party open-source skills identified as the path forward; no archive, restart, or re-platform decision | These minutes (canonical operational record) | [2026-10-18-weekly](../meetings/2026-10-18-weekly/notes.md) | Direction only; target users, minimum feature set, and UI ownership remain open; public objection window runs seven days from merge |
 
+| 2026-10-25 | Proceed with the version 0.9.1 release this week, possibly ahead of the usual 30–31 October timing, once the documentation-site work is complete | These minutes (canonical operational record) | [2026-10-25-weekly](../meetings/2026-10-25-weekly/notes.md) | Release-timing direction; public objection window runs seven days from merge |
+| 2026-10-25 | Adopt the presented interface redesign (workspace layout, reduced palette, Labs and Customize areas) as the working base; circulate the presentation to the wider community; take the design through the ADR process before implementation | These minutes (canonical operational record of the direction); forthcoming ADRs will be canonical for the design decisions | [2026-10-25-weekly](../meetings/2026-10-25-weekly/notes.md) | Working base only; no ADR adopted and no implementation authorized by these minutes; public objection window runs seven days from merge |
+| 2026-10-25 | Keep the standing call at its current Pacific time through the United States daylight-saving change, at least for the 2026-11-01 call; revisit when daylight saving resumes in spring | These minutes (canonical operational record) | [2026-10-25-weekly](../meetings/2026-10-25-weekly/notes.md) | Scheduling direction; public objection window runs seven days from merge |
+
 **Maintenance note:** status checked 2026-08-16. Recheck linked artifacts before each
 publication and cite any later merge commit or canonical status change.
 
@@ -69,6 +73,8 @@ the minutes, not as a new August 23 decision. Older status rows were not re-audi
 **2026-10-19 addition:** October 4 attendee-list and public-note publication approval confirmed by Joel Kaufmann on 2026-10-19 after internal circulation without objection. Cancellation records for September 27 and October 11 are indexed for calendar completeness. These records were circulated before the coordinated process change took effect and follow the prior public-posting rule. Older rows were not re-audited.
 
 **2026-10-20 addition:** October 18 attendee-list and public-note approval recorded 2026-10-20 after internal circulation on 2026-10-19 (all attendees confirmed; no objections). The September 27, October 4, and October 11 records were published on 2026-10-19 (PR #6); their `Pending merge` fields are replaced with that date and the objection window runs through 2026-10-26. ADR PR links reflect status at the 2026-10-19 check; older rows were not re-audited.
+
+**2026-11-01 addition:** October 25 attendee-list and public-note approval recorded 2026-11-01 after internal circulation on 2026-10-25 (confirmed by Houfu Ang and Julian Bryant; no objections by the deadline; recorded by Joel Kaufmann). The October 18 record was published on 2026-10-20 (PR #7); its `Pending merge` field is replaced with that date and the objection window ran through 2026-10-27. lq-ai PR #721 and PR #734 remained open at the 2026-11-01 check. Older rows were not re-audited.
 
 ## Internal-review process clarification — 2026-10-13
 
