@@ -109,8 +109,8 @@ Regular calls for contributions in the community chat continue to draw responses
 - **Approval date:** 2026-10-20
 - **Approval basis and confirmation:** All attendees (Houfu Ang, Peter Scripps, Alexios Kirillov, Joel Kaufmann) affirmatively confirmed the notes and attendee list before the deadline; no objections were raised. Confirmed by Joel Kaufmann.
 - **Attendee-list publication review:** Confirmed by all attendees; recorded by Joel Kaufmann on 2026-10-20.
-- **GitHub publication (merged):** Pending merge
-- **Objection-window close (prior rule):** Merge date + 7 days.
-- **Status:** Approved for publication — open for public objections for seven days after merge.
+- **GitHub publication (merged):** 2026-10-20 (lq-ai-community PR #7)
+- **Objection-window close (prior rule):** 2026-10-27 (merge date + 7 days).
+- **Status:** Published 2026-10-20; public objection window ran through 2026-10-27.
 
 These notes summarize the Zoom transcript of the call; statements about product readiness, traffic, and deployment experience reflect participants' reports and were not independently verified. Corrections after publication are added as dated entries.
