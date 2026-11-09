@@ -91,8 +91,8 @@ The United States daylight-saving change next week moves the call one hour later
 - **Approval date:** 2026-11-01
 - **Approval basis and confirmation:** No objections were raised by the deadline. Houfu Ang confirmed the notes on the circulation post; Julian Bryant confirmed in person. Confirmed by Joel Kaufmann.
 - **Attendee-list publication review:** Confirmed by Houfu Ang and Julian Bryant; recorded by Joel Kaufmann on 2026-11-01.
-- **GitHub publication (merged):** Pending merge
-- **Objection-window close (prior rule):** Merge date + 7 days.
-- **Status:** Approved for publication — open for public objections for seven days after merge.
+- **GitHub publication (merged):** 2026-11-01 (lq-ai-community PR #8)
+- **Objection-window close (prior rule):** 2026-11-08 (merge date + 7 days).
+- **Status:** Published 2026-11-01; public objection window ran through 2026-11-08.
 
 These notes summarize the Zoom transcript of the call; statements about release timing, implementation estimates, and tooling reflect participants' reports and were not independently verified. Corrections after publication are added as dated entries.
