@@ -81,8 +81,8 @@ The forthcoming interface redesign was welcomed and expected to resolve many usa
 - **Approval date:** 2026-11-09
 - **Approval basis and confirmation:** No objections were raised by the deadline, and none were raised when the notes were revisited at the 2026-11-08 call. Houfu Ang confirmed the notes on the circulation post; Emily Cabrera and Jamie Tso raised no objections (no-objection process). Confirmed by Joel Kaufmann.
 - **Attendee-list publication review:** Confirmed by Houfu Ang on the circulation post; no objection from Emily Cabrera or Jamie Tso by the deadline; recorded by Joel Kaufmann on 2026-11-09.
-- **GitHub publication (merged):** Pending merge
-- **Objection-window close (prior rule):** Merge date + 7 days.
-- **Status:** Approved for publication — open for public objections for seven days after merge.
+- **GitHub publication (merged):** 2026-11-09 (lq-ai-community PR #9)
+- **Objection-window close (prior rule):** 2026-11-16 (merge date + 7 days).
+- **Status:** Published 2026-11-09; public objection window runs through 2026-11-16.
 
 These notes summarize the Zoom transcript of the call; statements about release activity, contribution volume, third-party tools, and deployment experience reflect participants' reports and were not independently verified. Corrections after publication are added as dated entries.
